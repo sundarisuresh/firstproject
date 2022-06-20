@@ -1,3 +1,3 @@
 <?php
-$str="apple";
+$str="mango";
 echo $str;
