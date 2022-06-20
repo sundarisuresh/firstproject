@@ -1,3 +1,3 @@
 <?php
-$str="mango";
+$str="grapes";
 echo $str;
